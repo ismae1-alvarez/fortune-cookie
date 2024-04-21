@@ -23,7 +23,7 @@ const App:React.FC=()=> {
   return (
     <Fragment>
       <div className="max-w-full min-h-screen bg-center bg-cover " style={objStyle}>
-       <div className="">
+       <div className=" w-[90%] md:w-full mx-auto">
 
         <h2 className="text-center text-3xl font-bold  py-10 ">Galleta de la Fortuna</h2>
         
